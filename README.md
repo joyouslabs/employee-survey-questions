@@ -12,7 +12,7 @@
 
 ## Using the questions
 
-![Question Example](http://static.joyoushq.com/joyous_question.png)
+![Question Example](https://raw.githubusercontent.com/joyouslabs/employee-survey-questions/master/EXG_questions.png)
 
 The question set and accompanying research can be downloaded in PDF version [here](https://github.com/joyouslabs/employee-survey-questions/blob/master/Joyous-EX-Genome-v1.0.pdf). (Due to file size this is restricted to desktop download).
 
