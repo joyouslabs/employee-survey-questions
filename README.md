@@ -24,7 +24,7 @@ The question set can be used in either a one-off complete employee survey (like 
 
 ## Release History
 
-*1.0
+* 1.0
     * Renamed to **Employee Experience Genome** for version 1.0.
 * 0.1.0
     * The first proper release - being utilized in beta test employers.
