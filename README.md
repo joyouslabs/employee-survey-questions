@@ -1,10 +1,10 @@
-# Joyous Labs Employee Survey Questions
-> An open sourced set of about 25 questions to measure **employee engagement**, **organizational mood** and **employee experience**. The questions can be used in both **annual surveys** or **pulse surveys**.
+# Joyous Employee Experience Genome
+> An open sourced set of about 25 questions to measure **employee experience** (across the realms of **culture & environment**, **fairness & inclusion** and **well-being**), **employee engagement** and **eNPS**. The questions can be used in both **annual surveys** or **pulse surveys**.
 
 ## Project Goals
 
 1. Build a single question set that can be used comparably across multiple organizations in multiple countries, eventually possibly providing benchmarking. Questions must be in plain language that is jargon free and understandable across diverse employees in diverse industries. Ensure that the questions work for "non-office-based" employees.
-2. Explore a simple causal hypothesis: employee experience -> organizational mood -> employee engagement -> business performance.
+2. Explore a simple causal hypothesis: employee experience -> employee engagement -> business performance.
 3. The question set needs to work in multiple delivery mechanisms, including via one-off complete surveys and split over frequent (weekly) delivery via pulse survey.
 4. The question set should provide data both numeric scores as well as stimulate dialog and capture freeform comments.
 5. Test the hypothesis that the questions themselves can positively influence employee and management behavior.
@@ -24,6 +24,8 @@ The question set can be used in either a one-off complete employee survey (like 
 
 ## Release History
 
+*1.0
+    * Renamed to **Employee Experience Genome** for version 1.0.
 * 0.1.0
     * The first proper release - being utilized in beta test employers.
 * 0.0.1
@@ -37,7 +39,7 @@ Distributed under the CC0-1.0 license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-We love our contributors. If you would like to be a part of the ongoing development of this project please email [Mike Carden](mailto:mike@joyoushq.com?Subject=Contributing")
+We love our contributors. If you would like to be a part of the ongoing development of this project please email [Mike Carden](mailto:mike@joyoushq.com?Subject=Contributing to EX Genome")
 
 Some contribution suggestions:
 - Translation into other languages.
