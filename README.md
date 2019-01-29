@@ -43,7 +43,7 @@ Distributed under the CC0-1.0 license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-We love our contributors. If you would like to be a part of the ongoing development of this project please email [Mike Carden](mailto:mike@joyoushq.com?Subject=Contributing)
+We love our contributors. If you would like to be a part of the ongoing development of this project please [email us](mailto:hello@joyoushq.com?Subject=Contributing).
 
 Some contribution suggestions:
 - Translation into other languages.
