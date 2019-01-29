@@ -34,14 +34,16 @@ The question set can be used in either a one-off complete employee survey (like 
 ## Meta
 
 Twitter: [@joyousHQ](https://twitter.com/joyousHQ)
+
 LinkedIn: [Joyous Labs](https://www.linkedin.com/company/joyous)
+
 Facebook: [Joyous Labs](https://www.facebook.com/joyouslabs)
 
 Distributed under the CC0-1.0 license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-We love our contributors. If you would like to be a part of the ongoing development of this project please email [Mike Carden](mailto:mike@joyoushq.com?Subject=Contributing")
+We love our contributors. If you would like to be a part of the ongoing development of this project please email [Mike Carden](mailto:mike@joyoushq.com?Subject=Contributing)
 
 Some contribution suggestions:
 - Translation into other languages.
