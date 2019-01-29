@@ -1,4 +1,4 @@
-# Joyous Employee Experience Genome
+# The Joyous Employee Experience Genome
 > An open sourced set of about 25 questions to measure **employee experience** (across the realms of **culture & environment**, **fairness & inclusion** and **well-being**), **employee engagement** and **eNPS**. The questions can be used in both **annual surveys** or **pulse surveys**.
 
 ## Project Goals
@@ -14,7 +14,7 @@
 
 ![Question Example](http://static.joyoushq.com/joyous_question.png)
 
-The question set and accompanying research can be downloaded in PDF version [here](https://github.com/joyouslabs/employee-survey-questions/blob/master/Joyous_Labs_Employee_Survey_Questions.pdf). (Due to file size this is restricted to desktop download).
+The question set and accompanying research can be downloaded in PDF version [here](https://github.com/joyouslabs/employee-survey-questions/blob/master/Joyous-EX-Genome-v1.0.pdf). (Due to file size this is restricted to desktop download).
 
 Anyone is free to use the question set, as well as modify it, translate it, or incorporate it in other works. The full license details can be found [here](https://github.com/joyouslabs/employee-survey-questions/blob/master/LICENSE). While attribution is not required to use this work, we would appreciate a mention if this work is used in any commercial or public situation.
 
